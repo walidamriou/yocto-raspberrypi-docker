@@ -1,2 +1,2 @@
-# yocto-raspberrypi-docker-environment-macos
-Docker-based setup to build Yocto for Raspberry Pi on macOS
+# yocto-raspberrypi-docker
+Docker-based setup to build Yocto for Raspberry Pi
